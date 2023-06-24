@@ -1,0 +1,17 @@
+
+
+1. La IP privada y publica de la maquina virtual
+
+PRIVADA: 172.17.0.1  
+PUBLICA: 172.17.255.255
+
+2. La direccion MAC: 02:42:2d:60:e3:54
+
+3. Es diferente de a la  IP publica y privada de nuestra maquina host?
+
+Si, son diferentes la de la maquina host es:
+
+inet 127.0.0.1
+ether 3a:fe:f3:ad:44:a5
+
+
